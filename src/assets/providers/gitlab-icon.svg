@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="67" height="62">
-    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <path fill="#E24329" d="m33.5 60.5 11.8-36.3H21.7z" />
-        <path fill="#FC6D26" d="M33.5 60.5 21.7 24.2H5.2z" />
-        <path fill="#FCA326" d="m5.2 24.2-3.6 11c-.3 1 0 2.1 1 2.7l30.9 22.6L5.2 24.2Z" />
-        <path fill="#E24329" d="M5.2 24.2h16.5l-7-21.8c-.4-1.2-2-1.2-2.4 0L5.2 24.2Z" />
-        <path fill="#FC6D26" d="m33.5 60.5 11.8-36.3h16.5z" />
-        <path fill="#FCA326" d="m61.8 24.2 3.6 11c.3 1 0 2.1-1 2.7L33.6 60.5l28.3-36.3Z" />
-        <path fill="#E24329" d="M61.8 24.2H45.3l7-21.9c.4-1 2-1 2.4 0l7.1 21.9Z" />
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="62"><g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"><path fill="#E24329" d="m33.5 60.5 11.8-36.3H21.7z"/><path fill="#FC6D26" d="M33.5 60.5 21.7 24.2H5.2z"/><path fill="#FCA326" d="m5.2 24.2-3.6 11c-.3 1 0 2.1 1 2.7l30.9 22.6L5.2 24.2Z"/><path fill="#E24329" d="M5.2 24.2h16.5l-7-21.8c-.4-1.2-2-1.2-2.4 0L5.2 24.2Z"/><path fill="#FC6D26" d="m33.5 60.5 11.8-36.3h16.5z"/><path fill="#FCA326" d="m61.8 24.2 3.6 11c.3 1 0 2.1-1 2.7L33.6 60.5l28.3-36.3Z"/><path fill="#E24329" d="M61.8 24.2H45.3l7-21.9c.4-1 2-1 2.4 0l7.1 21.9Z"/></g></svg>

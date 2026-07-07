@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="502" height="451">
-    <defs>
-        <linearGradient id="a" x1="108.6%" x2="46.9%" y1="30.1%" y2="65.8%">
-            <stop offset="18%" stop-color="#0052CC" />
-            <stop offset="100%" stop-color="#2684FF" />
-        </linearGradient>
-    </defs>
-    <g fill="none" fill-rule="nonzero">
-        <path fill="#2684FF"
-            d="M18 0A16 16 0 0 0 2 19l68 413c2 10 11 18 21 18h327c8 0 14-6 16-14l68-417a16 16 0 0 0-16-19H18Zm286 298H200l-28-147h158l-26 147Z" />
-        <path fill="url(#a)"
-            d="M479 151H329l-26 147H199L76 444c4 4 9 6 14 6h327c8 0 14-6 16-14l46-285Z"
-            transform="translate(1)" />
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="502" height="451"><defs><linearGradient id="a" x1="108.6%" x2="46.9%" y1="30.1%" y2="65.8%"><stop offset="18%" stop-color="#0052CC"/><stop offset="100%" stop-color="#2684FF"/></linearGradient></defs><g fill="none" fill-rule="nonzero"><path fill="#2684FF" d="M18 0A16 16 0 0 0 2 19l68 413c2 10 11 18 21 18h327c8 0 14-6 16-14l68-417a16 16 0 0 0-16-19H18Zm286 298H200l-28-147h158l-26 147Z"/><path fill="url(#a)" d="M479 151H329l-26 147H199L76 444c4 4 9 6 14 6h327c8 0 14-6 16-14l46-285Z" transform="translate(1)"/></g></svg>
